@@ -15,7 +15,7 @@
 ## 테스트 결과
 ### 🎥 테스트 동영상 (Youtube)
 
-- 자동화 테스트 동영상 **(25.10.27)** | *Design Sysyem 적용* | [▶️ 바로보기](https://youtu.be/L-_c_SkEAjs)
+- 자동화 테스트 동영상 **(25.04.15)** | [▶️ 바로보기](https://youtu.be/L-_c_SkEAjs)
 
 #### 🗂️ **Google Drive**
 - [🔗 Test Result (.zip)](https://drive.google.com/drive/folders/1f9foK6b4ZrYw6ugmbNNy25gB79n0HGNt)
